@@ -1,0 +1,8 @@
+C:\Users\burha\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.AssemblyReference.cache
+C:\Users\burha\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.SuggestedBindingRedirects.cache
+C:\Users\burha\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\burha\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\burha\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\burha\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\burha\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\burha\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
